@@ -56,7 +56,7 @@ body
     padding: 1em;
 }
 #footer {text-align: center;
-background: #33A;
+background: rgb(122, 3, 138);
 color:aliceblue;
 font-weight: bold;
 padding: 2rem;}
